@@ -1,10 +1,10 @@
 # DB Diagram
 
+![trabook_er_model](https://github.com/juanfix/04-peaku-ws-backend/assets/14180890/eddfd2c7-68cd-4717-b72f-97e25555c74d)
+
 # API endpoints
 
 These endpoints allow you to register blogs, plans, cities, countries and assign plans to cities.
-
----
 
 ## Country
 
